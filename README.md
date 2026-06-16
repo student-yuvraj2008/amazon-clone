@@ -1,2 +1,2 @@
-# amazon-clone
+# onl.store
 my first project
